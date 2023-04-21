@@ -30,3 +30,7 @@ This project is open for contributions. If you have any suggestions or improveme
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Note 
+
+all file, commit name, game name are written by chatGPT even the file you are reading
